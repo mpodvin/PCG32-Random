@@ -1,5 +1,5 @@
 # PCG32Random
-PCG 32bits Random Number Generation for Delphi.
+PCG 32bits Random Number Generator for Delphi.
 
 PCG32_Random returns an unsigned 32 bits value OR an unbiased random number within the range 0 <= X < Range.
 
