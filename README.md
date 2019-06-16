@@ -10,9 +10,9 @@ Three "Randomize" methods :
 
 Based On :
 
-PCG, A Family of Better Random Number Generators
+PCG, A Family of Better Random Number Generators.
 PCG is a family of simple fast space-efficient statistically good algorithms for random number generation. Unlike many general-purpose RNGs, they are also hard to predict.
-Minimal C Implementation
+Minimal C Implementation.
 
 Copyright 2014 Melissa O'Neill <oneill@pcg-random.org>
 
